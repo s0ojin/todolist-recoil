@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todolist-recoil/static/js/main.ccf7d75b.js",
+    "index.html": "/todolist-recoil/index.html",
+    "main.ccf7d75b.js.map": "/todolist-recoil/static/js/main.ccf7d75b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ccf7d75b.js"
+  ]
+}
